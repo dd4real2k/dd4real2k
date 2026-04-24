@@ -15,5 +15,5 @@ I build data-driven solutions to solve real-world business problems,
 with focus on healthcare analytics, financial modelling, and operational insights.
 
 ## 🔗 Links
-[LinkedIn](https://www.linkedin.com/in/danieldiala/)
-[Twitter](https://x.com/leinadalaid)
+- [LinkedIn](https://www.linkedin.com/in/danieldiala/)
+- [Twitter](https://x.com/leinadalaid)
