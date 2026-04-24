@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Daniel Diala 👋
 
-<!--
-**dd4real2k/dd4real2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Python | SQL | Power BI | Machine Learning
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+- NHS A&E Forecasting → Time-series + ML + LSTM
+- Credit Risk Modelling → Classification + Feature Engineering
+- IT Service Desk Analytics → SQL + Dashboarding + Business Insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Python | SQL | Pandas | Scikit-learn | FastAPI | Streamlit | Power BI
+
+## 📊 What I Do
+I build data-driven solutions to solve real-world business problems, 
+with focus on healthcare analytics, financial modelling, and operational insights.
+
+## 🔗 Links
+- LinkedIn (www.linkedin.com/in/danieldiala/)
