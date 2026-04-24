@@ -16,3 +16,4 @@ with focus on healthcare analytics, financial modelling, and operational insight
 
 ## 🔗 Links
 [LinkedIn](https://www.linkedin.com/in/danieldiala/)
+[Twitter](https://x.com/leinadalaid)
