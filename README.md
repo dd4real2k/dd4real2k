@@ -15,4 +15,4 @@ I build data-driven solutions to solve real-world business problems,
 with focus on healthcare analytics, financial modelling, and operational insights.
 
 ## 🔗 Links
-- [LinkedIn]:(www.linkedin.com/in/danieldiala/)
+- [LinkedIn](www.linkedin.com/in/danieldiala/)
