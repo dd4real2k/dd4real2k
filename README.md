@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel Diala
 
-💻 IT Support Specialist → Data Analyst (Transitioning)  
+💻 Data Analyst / Junior Data Scientist | SQL, Python, Power BI, ML | IT + Healthcare + Finance Analytics
 📍 London, United Kingdom  
 📊 Passionate about turning data into actionable insights  
 
